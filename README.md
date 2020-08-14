@@ -40,6 +40,8 @@ More on
   - Not looking for something specific (supervised)
   - Does not require label data
   - Evaluation usually indirect or qualitative
+  
+![](https://raw.githubusercontent.com/manjillama/machine-learning-101/master/images/ml-categories.png)
 
 ## How does machine learning work?
 
