@@ -53,3 +53,21 @@ At very high-level here, are the two main steps of supervised learning.
 - Then, make predictions on new data for which label is unknown.
 
 > The primary goal of supervised learning is to build a model that “generalizes”: It accurately predicts the future rather than the past!
+
+---
+
+Beyond Python there are a number of open source libraries generally used to facilitate practical machine learning.
+
+### Matplotlib
+
+Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shell, the jupyter notebook, web application servers, and four graphical user interface toolkits.
+
+### NumPy
+NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
+
+### Tensorflow
+TensorFlow: TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
+
+### Pandas
+Pandas: Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+
