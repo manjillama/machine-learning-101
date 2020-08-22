@@ -26,7 +26,7 @@ Analyzing data, looking at data and then doing something with it, for usually so
 
   Suppose we presented images of apples, bananas and mangoes to the model, so what it does, based on some patterns and relationships it creates clusters and divides the dataset into those clusters. Now if a new data is fed to the model, it adds it to one of the created clusters.
 
-- ## **Reinforcement Learning**: <br/>
+- **Reinforcement Learning**: <br/>
   It is the ability of an agent to interact with the environment and find out what is the best outcome. It follows the concept of hit and trial method. The agent is rewarded or penalized with a point for a correct or a wrong answer, and on the basis of the positive reward points gained the model trains itself. And again once trained it gets ready to predict the new data presented to it.
 
 ![](https://raw.githubusercontent.com/manjillama/machine-learning-101/master/images/ml-categories.png)
